@@ -45,3 +45,8 @@ $RECYCLE.BIN/
 Network Trash Folder
 Temporary Items
 .apdisk
+
+
+# Custom files and directories to ignore
+/packages
+/asp.net-mvc-bootstrap/obj/Debug
